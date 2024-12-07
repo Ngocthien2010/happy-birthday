@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chúc Mừng Sinh Nhật</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f8e8e8;
+            color: #333;
+        }
+        h1 {
+            font-size: 3rem;
+            color: #ff6347;
+        }
+        p {
+            font-size: 1.5rem;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 1rem;
+            color: #fff;
+            background-color: #28a745;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎉 Chúc Mừng Sinh Nhật! 🎉</h1>
+    <p>Chúc bạn có một ngày tràn ngập niềm vui và hạnh phúc!</p>
+    <a class="button" href="https://www.example.com">Quay về Trang Chính</a>
+</body>
+</html>
